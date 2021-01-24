@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "only changed",
+      "name": "114",
       "setup": "npm install",
-      "run": "npm test --only changed",
+      "run": "npm test spec/114-spec.js",
       "input": "",
       "output": "",
       "comparison": "included",
