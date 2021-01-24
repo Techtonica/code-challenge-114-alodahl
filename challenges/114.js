@@ -36,7 +36,7 @@
 // ```
 
 function flatten(array){
-    // your code here
+    // your code
 }
 
 module.exports = flatten;
