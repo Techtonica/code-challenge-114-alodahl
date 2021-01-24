@@ -2,8 +2,11 @@
   "tests": [
     {
       "name": "new",
-      "setup": "",
-      "run": "npm run test --onlyChanged",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
       "timeout": 1,
       "points": 1
     }
