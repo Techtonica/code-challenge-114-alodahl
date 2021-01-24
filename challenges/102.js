@@ -8,7 +8,7 @@
 //
 // * Hints:
 //
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...e
 //
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Relational_operators
 
